@@ -8,5 +8,10 @@ I expect it displays.
             100  (1, 2, 3, 4, 5)
             200          (0, 10)
             300                1
+However, it display
 
+     Record Type            Value
+         100  (1, 2, 3, 4, 5)
+         200          (0, 10)
+         300                1
 A: I don't know.
