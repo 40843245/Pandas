@@ -31,4 +31,11 @@ However, it displays with a leading whitespace.
 Although I have google it and find API of pandas, I just find a way to achieve it -- set the index as empty string ''.
 
 Any replies will be helpful.
-A: I don't know.
+
+I post it in stackoverflow and Github.
+
+stackoverflow:
+
+Github:
+
+https://github.com/40843245/Pandas/blob/main/Tutorial/Issues/issue%231.md
