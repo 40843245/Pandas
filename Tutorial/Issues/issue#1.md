@@ -36,6 +36,8 @@ I post it in stackoverflow and Github.
 
 stackoverflow:
 
+https://stackoverflow.com/questions/77109581/q-how-to-remove-index-and-format-output-of-table-without-leading-whitespace-for
+
 Github:
 
 https://github.com/40843245/Pandas/blob/main/Tutorial/Issues/issue%231.md
